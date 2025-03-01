@@ -1,5 +1,13 @@
 # End-To-End-Medical-Chatbot
+Interface:
 <img width="477" alt="Capture (1)" src="https://github.com/user-attachments/assets/d863f997-8f70-4069-92ed-78d8f8a7ace6" />
+Poster:
+![Figure 1 Brain Tumor Image Preprocessing](https://github.com/user-attachments/assets/36f43097-83c0-442f-a4f7-53968364d902)
+
+Diagram Flow:
+
+![Untitled Diagram (1)](https://github.com/user-attachments/assets/3815c98e-510e-4a2e-8322-3a957ac91fe6)
+![Untitled Diagram](https://github.com/user-attachments/assets/80b48390-8b6b-49e6-aa81-1d953a617c2b)
 
 
 
