@@ -1,4 +1,5 @@
 # End-To-End-Medical-Chatbot
+<img width="477" alt="Capture (1)" src="https://github.com/user-attachments/assets/d863f997-8f70-4069-92ed-78d8f8a7ace6" />
 
 
 
